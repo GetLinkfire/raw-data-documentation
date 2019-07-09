@@ -1,5 +1,4 @@
-# raw-data-documentation
-Linkfire Raw Data Documentation
+# Linkfire Raw Data Documentation
 
 1. [Data fields](#data-fields)
 2. [How to match the main metrics in Linkfire v1](#how-to-match-the-main-metrics-in-linkfire-v1)
