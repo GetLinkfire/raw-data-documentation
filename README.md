@@ -70,8 +70,7 @@
 |Visits|Non-unique pageviews excluding scrapers, bots etc. Repeated hits are counted.|Count of rows where type='pageview'|
 |Sessions|Activity in a 10-minute window in which repeated pageviews are counted as unique.|Count of rows where type='pageview' and newsession='true'|
 |Engagements|Total non-unique engagements, including repeated engagements.|Count of rows where type='event'|
-|Click-throughs|Total non-unique click-throughs, including repeated click-throughs.|Count of rows where
-type='event' and eventcategory='service'|
+|Click-throughs|Total non-unique click-throughs, including repeated click-throughs.|Count of rows where type='event' and eventcategory='service'|
 |Click-through rate|Percentage of click-throughs against the number of visitors. Click-through rate includes content links.|Click-throughs / visits * 100|
 |Conversions|Tracked sales and streams from sources that provide attribution data to Linkfire|Count of rows where type='conversion' and convtoken !='1l3vpUI'|
 |Streams|Tracked streaming events from streaming services that provide attribution data to Linkfire|Count of rows where type='conversion' and convcategory='stream'|
