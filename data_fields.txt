@@ -51,3 +51,5 @@ convusdvalue,
 convusdvaluesecond,
 orgid,
 orgname,
+isrcs,
+upcs
